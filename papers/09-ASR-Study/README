@@ -1,21 +1,4 @@
-# Notes on Speech Signal Processing and Self-Supervised Learning
+# Speech Representation Learning Notes
 
-This repository contains study notes on speech signal processing and self-supervised speech representation learning.  
-The goal is to build a clear conceptual understanding of modern speech models such as wav2vec 2.0 and WavLM, starting from classical approaches.
-
-## Topics Covered
-- Speech signal processing fundamentals (DFT, log-mel, MFCC, cepstrum)
-- Classical ASR models (GMM–HMM)
-- Self-supervised pre-training frameworks
-  - wav2vec 2.0
-  - WavLM
-- Pre-training vs fine-tuning paradigms
-- CTC-based sequence modeling
-
-## Motivation
-Rather than focusing on implementation details, this repository emphasizes:
-- why each component exists,
-- what problem it solves,
-- and how the overall pipeline fits together.
-
-These notes are intended for students and researchers who want an intuitive understanding before diving into code.
+Personal study notes on speech signal processing, wav2vec 2.0, and WavLM.  
+Focused on conceptual understanding of feature extraction, self-supervised learning, and CTC-based fine-tuning.
