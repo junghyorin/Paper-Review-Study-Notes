@@ -48,6 +48,6 @@ interviewer-only 모델도 높은 성능 → bias 존재 확인<br>
 
 <h2>Slides</h2>
 <p>
-<a href="papers/10-Mitigating-Interviewer-Bias/Slides/Mitigating Interviewer Bias in Multimodal Depression Detection_ An Approach with Adversarial Learning and Contextual Positional Encoding_ppt.pdf">
+<a href="papers/10-Mitigating-Interviewer-Bias/Slides/Mitigating%20Interviewer%20Bias%20in%20Multimodal%20Depression%20Detection_%20An%20Approach%20with%20Adversarial%20Learning%20and%20Contextual%20Positional%20Encoding_ppt.pdf">
 </a>
 </p>
